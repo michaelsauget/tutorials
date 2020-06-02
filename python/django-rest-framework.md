@@ -275,6 +275,8 @@ urlpatterns = [
 ## Références
 
 La plupart des éléments de ce `README` proviennent de ce vidéo:
+
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=263xt_4mBNc" target="_blank">
 <img src="https://files.realpython.com/media/Screenshot_2018-12-09_at_17.58.16.20be0c5d3f1e.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a></div>
